@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tharushi1999@gmail.com
+	name = Tharushi Liyanaarachchi
